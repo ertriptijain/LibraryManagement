@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.nav-item{
+	display: flex;
+}
+.nav-item a{
+	text-transform: capitalize;
+}
+body{
+	background:#e0e4e3;
+}
